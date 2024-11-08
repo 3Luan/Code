@@ -1,0 +1,21 @@
+{
+  "configurations": [
+    {
+      "name": "Win32",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "C:/MinGW/include/c++/x86_64-w64-mingw32/bits", // Đường dẫn đến bits/stdc++.h
+        "C:/MinGW/include/c++/x86_64-w64-mingw32",
+        "C:/MinGW/include/c++/backward",
+        "C:/MinGW/lib/gcc/x86_64-w64-mingw32/10.2.0/include", // Cập nhật đường dẫn tương ứng với phiên bản
+        "C:/MinGW/include"
+      ],
+      "defines": [],
+      "compilerPath": "C:/MinGW/bin/g++.exe",
+      "cStandard": "c11",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "gcc-x64"
+    }
+  ],
+  "version": 4
+}
